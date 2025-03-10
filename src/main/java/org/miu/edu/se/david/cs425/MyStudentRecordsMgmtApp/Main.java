@@ -17,7 +17,8 @@ public class Main {
                 new Student(110002,"Anna", "12/07/1990"),
                 new Student(110003, "Erica", "01/31/1974"),
                 new Student(110004, "Carlos", "08/22/2009"),
-                new Student(110005, "Bob", "08/05/1994")
+                new Student(110005, "Bob", "08/05/1994"),
+                new Student(110005,"Paul","10/23/1998")
         );
         stundents.forEach(System.out::println);
 
